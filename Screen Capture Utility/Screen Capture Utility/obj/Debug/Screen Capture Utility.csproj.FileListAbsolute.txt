@@ -1,0 +1,11 @@
+c:\users\amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\bin\Debug\Screen Capture Utility.exe.config
+c:\users\amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\bin\Debug\Screen Capture Utility.exe
+c:\users\amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\bin\Debug\Screen Capture Utility.pdb
+c:\users\amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Debug\Screen Capture Utility.csprojResolveAssemblyReference.cache
+c:\users\amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Debug\Screen_Capture_Utility.Form1.resources
+c:\users\amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Debug\Screen_Capture_Utility.Properties.Resources.resources
+c:\users\amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Debug\Screen Capture Utility.csproj.GenerateResource.Cache
+c:\users\amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Debug\Screen Capture Utility.exe
+c:\users\amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Debug\Screen Capture Utility.pdb
+C:\Users\Amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Debug\Screen_Capture_Utility.CropShotWindow.resources
+C:\Users\Amaurea\documents\visual studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Debug\Screen_Capture_Utility.SettingsWindow.resources

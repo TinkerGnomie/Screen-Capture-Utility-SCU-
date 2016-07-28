@@ -1,0 +1,10 @@
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\bin\Release\Screen Capture Utility.exe.config
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\bin\Release\Screen Capture Utility.exe
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\bin\Release\Screen Capture Utility.pdb
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Release\Screen_Capture_Utility.CropShotWindow.resources
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Release\Screen_Capture_Utility.Form1.resources
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Release\Screen_Capture_Utility.Properties.Resources.resources
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Release\Screen_Capture_Utility.SettingsWindow.resources
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Release\Screen Capture Utility.csproj.GenerateResource.Cache
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Release\Screen Capture Utility.exe
+C:\Users\Amaurea\Documents\Visual Studio 2013\Projects\Screen Capture Utility\Screen Capture Utility\obj\Release\Screen Capture Utility.pdb
